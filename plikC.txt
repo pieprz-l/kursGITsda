@@ -1,1 +1,1 @@
-Dodanie funkcjinalności C.
+Zawartość pliku plikC.txt
